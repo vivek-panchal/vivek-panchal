@@ -29,8 +29,8 @@
 
 <p><img align="right" width="500" src="https://www.skillatwill.com/uploads/8G3SGfFk9dJiOcFfNWRNePT6odZ7Q3tGSvWWvHN9.gif" alt="vivek-panchal" /></p>
 
-<p><img align="centre" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-panchal&show_icons=true&locale=en&layout=compact" alt="vivek-panchal" /></p>
+<p><img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-panchal&show_icons=true&locale=en&layout=compact" alt="vivek-panchal" /></p>
 
-<p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=vivek-panchal&show_icons=true&locale=en" alt="vivek-panchal" /></p>
+<p>&nbsp;<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=vivek-panchal&show_icons=true&locale=en" alt="vivek-panchal" /></p>
 
-<p><img align="center" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-panchal&" alt="vivek-panchal" /></p>
+<p><img align="left" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-panchal&" alt="vivek-panchal" /></p>
