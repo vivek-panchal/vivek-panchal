@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Panchal</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://miro.medium.com/max/500/1*fxFhXd-vuZWpiymp3i_wdg.jpeg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-panchal&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-panchal" /> </p>
 
