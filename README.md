@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vivek.nsut@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1xh3HF0vVE46g4anLIm8_WK3ibZEJPTLB](https://drive.google.com/drive/folders/1xh3HF0vVE46g4anLIm8_WK3ibZEJPTLB)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1xh3HF0vVE46g4anLIm8_WK3ibZEJPTLB]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
