@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vivekpaanchal" target="blank"><img src="https://img.shields.io/twitter/follow/vivekpaanchal?logo=twitter&style=for-the-badge" alt="vivekpaanchal" /></a> </p>
 
-- 🔭 I’m currently working on **Dating App**
+- 🔭 I’m currently working on **Web Browser App**
 
 - 💬 Ask me about **Android,Kotlin,C++,DSA**
 
