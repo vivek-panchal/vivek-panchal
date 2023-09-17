@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vivekpanchaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekpaanchal" height="30" width="40" /></a>
+<a href="https://twitter.com/vivekpanchaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekpanchaal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vivekpanchal2608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek panchal" height="30" width="40" /></a>
 <a href="https://instagram.com/vivekpaanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekpaanchal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vivekpanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekpanchal" height="30" width="40" /></a>
