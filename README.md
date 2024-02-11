@@ -24,7 +24,7 @@
 <a href="https://instagram.com/vivekpaanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekpaanchal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vivekpanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekpanchal" height="30" width="40" /></a>
 </p>
-
+<br>
 <div id="badges">
 
 ## 🛠️ Languages and Tools :
@@ -35,12 +35,13 @@
 </p>
 </div>
 
+<br>
 
 ## 📈 GitHub Stats
 <div style="display: flex;">
     <div style="margin-right: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-panchal&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=vivek-panchal&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-panchal&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
+         <img src="https://github-readme-stats.vercel.app/api?username=vivek-panchal&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;"> <br> <br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-panchal&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
     </div>
 </div>
