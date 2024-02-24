@@ -1,7 +1,6 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Vivek Panchal</h1>
-<h3 align="center">A passionate Web developer from India 🇮🇳 </h3>
-<h1> </h1>
+<h3 align="center">A passionate MERN Stack developer from India 🇮🇳 </h3>
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
 
@@ -9,9 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/vivekpanchaal" target="blank"><img src="https://img.shields.io/twitter/follow/vivekpanchaal?logo=twitter&style=for-the-badge" alt="vivekpanchaal" /></a> </p>
 
-- 🔭 I’m currently learning **MERN Stack Development**
+- 🔭 I’m currently learning **Typescript & Nextjs**
 
-- 💬 Ask me about **Android,Kotlin,C++,DSA**
+- 🔭 I’m currently Looking for **Remote SDE Roles**
+
+- 💬 Ask me about **MERN,JavaScript,C++,DSA**
 
 - 📫 How to reach me **vivek.nsut@gmail.com**
 
