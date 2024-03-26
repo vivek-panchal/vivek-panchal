@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently Looking for **Remote SDE Roles**
 
-- 💬 Ask me about **MERN,JavaScript,C++,DSA**
+- 💬 Ask me about **MERN, JavaScript, C++, DSA**
 
 - 📫 How to reach me **vivek.nsut@gmail.com**
 
