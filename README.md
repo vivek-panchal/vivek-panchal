@@ -8,15 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/vivekpanchaal" target="blank"><img src="https://img.shields.io/twitter/follow/vivekpanchaal?logo=twitter&style=for-the-badge" alt="vivekpanchaal" /></a> </p>
 
-- 🔭 I’m currently learning **Typescript & Nextjs**
+- 🔭 I’m currently Building **Coindcx**
 
-- 🔭 I’m currently Looking for **Remote SDE Roles**
-
-- 💬 Ask me about **MERN, JavaScript, C++, DSA**
+- 💬 Ask me about **NodeJS, MERN, JavaScript, C++, DSA**
 
 - 📫 How to reach me **vivek.nsut@gmail.com**
 
-- 📄 Know about my experiences []()
+- 📄 Know about my experiences [Here](https://vivek-backend-dev.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
